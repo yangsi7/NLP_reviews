@@ -21,6 +21,11 @@ This repository contains code and documentation to: _train and test a model pred
   `wget http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Apps_for_Android_5.json.gz`
 
   `gzip -d reviews_Apps_for_Android_5.json.gz`
+3. create required directories
+`mkdir data`
+`mkdir models`
+`mkdir img`
+`mkdir out`
 
 **************
 ### Notebooks
@@ -32,5 +37,6 @@ The directories are here for order:
 - __/data/__ -- should contain reviews_Apps_for_Android_5.json. See above for how to download the review data.
 - __/models/__ -- NLP_reviews.ipyb saves instances of trained models to this directory
 - __/img/__ -- NLP_reviews.ipyb saves confusion matrixc plots to this directory
+- __/out/__ -- NLP_reviews.ipyb saves model parameters and output to this directory
 
 ***********
