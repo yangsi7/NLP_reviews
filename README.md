@@ -16,21 +16,25 @@ This repository contains code and documentation to: __train and test a model tha
 
 2. Download the review data and unzip to /data/:
 
-  `cd data/`
+  `cd NLP_reviews/`
+  
+  `mkdir ./data; cd data`
 
   `wget http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Apps_for_Android_5.json.gz`
 
-  `gzip -d reviews_Apps_for_Android_5.json.gz`
+  `gzip -d reviews_Apps_for_Android_5.json.gz `
+  
+   `cd ..`
+
+  
   
 3. create required directories
 
-`mkdir data`
+`mkdir ./models`
 
-`mkdir models`
+`mkdir ./img`
 
-`mkdir img`
-
-`mkdir out`
+`mkdir ./out`
 
 **************
 ### Notebooks
