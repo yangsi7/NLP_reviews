@@ -4,7 +4,7 @@ Simon Yang, September 2021
 ********
 
 ### Predicting Amazon review rating 
-This repository contains code and documentation to: _train and test a model predicting the “Overall” Amazon reviews' rating__. 
+This repository contains code and documentation to: __train and test a model that predicts the “Overall” Amazon reviews' rating__. 
 
 *******
 ### Requirements
