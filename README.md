@@ -21,10 +21,15 @@ This repository contains code and documentation to: __train and test a model tha
   `wget http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Apps_for_Android_5.json.gz`
 
   `gzip -d reviews_Apps_for_Android_5.json.gz`
+  
 3. create required directories
+
 `mkdir data`
+
 `mkdir models`
+
 `mkdir img`
+
 `mkdir out`
 
 **************
