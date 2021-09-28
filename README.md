@@ -8,7 +8,7 @@ This repository contains code and documentation to: __train and test a model tha
 
 *******
 ### Requirements
-1. The requirements to run NLP_reviews.ipyb can be found in env.yml. Use conda to install:
+1. The requirements to run NLP_reviews.ipyb can be found in env.yml. Use conda to install the required libraries:
 
   `conda env create -f env.yml`
 
