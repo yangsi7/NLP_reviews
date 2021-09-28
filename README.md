@@ -29,8 +29,13 @@ This repository contains code and documentation to: _train and test a model pred
 
 **************
 ### Notebooks
-- __NLP_reviews.ipyb__: main Jupyter notebook containing the code to train a model to predict ratings from text reviews.
 - __NLP_reviews_summary.ipyb__: documentation Jupyter notebook detailing the approach and steps used tune and train a model that predicts ratings from text reviews.
+- __NLP_reviews.ipyb__: main Jupyter notebook containing the code to train a model to predict ratings from text reviews.
+
+### Notebooks in html format:
+- __NLP_reviews_summary.html__
+- __NLP_reviews.html__
+
 
 ### Directories
 The directories are here for order: 
